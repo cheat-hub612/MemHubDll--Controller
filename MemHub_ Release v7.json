@@ -74,6 +74,21 @@
       ]
     },
     {
+      "username": "extshefat",
+      "password": "CHEAT_HUB-661598754963",
+      "hwid": "82b57da3820f563679cdf1b1d1620aeb062386bb0764fa4dbca7a75fe728cd07",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/nxtkhalil21-commits/dc92c36e4acedc7c8251e188ddcfaed2/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/nxtkhalil21-commits/37013ca0dc93a7bfec081d1f48b0ff1a/raw/gistfile1.txt"
+        }
+      ]
+    },
+    {
       "username": "sandesh",
       "password": "CHEAT_HUB-51695861252",
       "hwid": "ba9f2cf52477319f556b339a03c187e86ab81b5f99025f36b4d8458a7c21ea09",
