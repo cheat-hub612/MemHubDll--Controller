@@ -1,19 +1,3 @@
 {
-  "users": [
-    {
-      "username": "Test",
-      "password": "6969",
-      "hwid": "d4565a75c30436b6a24620575aa7e50b53788e1e2056cc544a8fd98e9a344903",
-      "apps": [
-        {
-          "appNo": 0,
-          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
-        },
-        {
-          "appNo": 4,
-          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
-        }
-      ]
-    }
-  ]
+  "users": []
 }
