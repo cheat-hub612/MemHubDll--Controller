@@ -14,6 +14,17 @@
           "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
         }
       ]
+    },
+    {
+      "username": "A",
+      "password": "A",
+      "hwid": "6558151514545812515",
+      "apps": [
+        {
+          "appNo": 9,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
+        }
+      ]
     }
   ]
 }
