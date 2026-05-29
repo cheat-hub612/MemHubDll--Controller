@@ -25,6 +25,17 @@
           "clientGistUrl": "https://gist.github.com/extshefat/06705d9a3c7a903f8ccc39d692bc551b"
         }
       ]
+    },
+    {
+      "username": "xx",
+      "password": "xx",
+      "hwid": "xxxxxxxxxx",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https//github/24845547"
+        }
+      ]
     }
   ]
 }
