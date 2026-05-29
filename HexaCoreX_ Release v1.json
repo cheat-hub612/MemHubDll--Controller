@@ -36,6 +36,17 @@
           "clientGistUrl": "https//github/24845547"
         }
       ]
+    },
+    {
+      "username": "cc",
+      "password": "cc",
+      "hwid": "cccccccccccccc",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https//github//25457"
+        }
+      ]
     }
   ]
 }
