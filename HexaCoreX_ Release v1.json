@@ -47,6 +47,17 @@
           "clientGistUrl": "bbbbb"
         }
       ]
+    },
+    {
+      "username": "ff",
+      "password": "hh",
+      "hwid": "6514514814852121251514",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https//454215"
+        }
+      ]
     }
   ]
 }
