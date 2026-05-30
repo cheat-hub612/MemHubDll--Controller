@@ -40,6 +40,10 @@
          {
           "appNo": 8,
           "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/0afe73480e5f1a553b8af5bc31299e3e/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 9,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/68a4fc5f2a4d8b03774895bb698f981e/raw/gistfile1.txt"
         }
       ]
     },
