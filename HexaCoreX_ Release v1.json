@@ -25,6 +25,17 @@
           "clientGistUrl": "https://gist.githubusercontent.com/extshefat/1891cf3f800c261c2c6e6ebf75813287/raw/gistfile1.txt"
         }
       ]
+    },
+    {
+      "username": "Test",
+      "password": "6969",
+      "hwid": "d4565a75c30436b6a24620575aa7e50b53788e1e2056cc544a8fd98e9a344903",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        }
+      ]
     }
   ]
 }
