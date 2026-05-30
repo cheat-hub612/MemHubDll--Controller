@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "username": "sandesh",
+      "password": "sandesh",
+      "hwid": "d752190abe93cf9e45f1a789b99dd21dec2c3b43904fd9fcb9f5bb86c4724d69",
+      "apps": [
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
+        }
+      ]
+    },
+    {
+      "username": "Shefatul",
+      "password": "Shefatul",
+      "hwid": "82b57da3820f563679cdf1b1d1620aeb062386bb0764fa4dbca7a75fe728cd07",
+      "apps": [
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/extshefat/06705d9a3c7a903f8ccc39d692bc551b/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/extshefat/1891cf3f800c261c2c6e6ebf75813287/raw/gistfile1.txt"
+        }
+      ]
+    },
+    {
+      "username": "Test",
+      "password": "6969",
+      "hwid": "d4565a75c30436b6a24620575aa7e50b53788e1e2056cc544a8fd98e9a344903",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        }
+      ]
+    }
+  ]
+}
