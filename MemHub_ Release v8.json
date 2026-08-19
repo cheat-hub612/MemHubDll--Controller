@@ -76,7 +76,12 @@
         {
           "appNo": 17,
           "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/9f73ddce56b727fa46dfa7fcc854d41a/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 18,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/c835b124a71faa12a8a322ce557705b3/raw/gistfile1.txt"
         }
+    
       ]
     },
     {
